@@ -1,13 +1,14 @@
-# Rails React Starter
+# SREP
 
-The Base app with:
+Spaced Repetition as a Service (SRaaS :stuck_out_tongue:)
 
 - Rails
 - PostgreSQL
 - React
 - Devise (for users)
 
-Routing is mostly handled by React-Router (except login/logout). Rails is optimised for API stuff.
+Client-side routing is mostly handled by React-Router (except login/logout). Rails is optimised for API stuff.
+Actual SREP handling happens directly through Rails.
 
 ### Getting Started
 
